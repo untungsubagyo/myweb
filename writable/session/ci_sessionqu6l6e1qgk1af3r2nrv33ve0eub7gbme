@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1687823169;_ci_previous_url|s:38:"http://untung.local/index.php/register";error|s:244:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Username sudah digunakan sebelumnya</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:9:"user_name";s:14:"Untung Subagyo";s:13:"user_username";s:6:"untung";s:9:"user_pass";s:9:"bismillah";s:12:"pass_confirm";s:9:"bismillah";s:10:"user_email";s:17:"untungs@gmail.com";}}_ci_validation_errors|a:1:{s:13:"user_username";s:35:"Username sudah digunakan sebelumnya";}

@@ -1,0 +1,12 @@
+__ci_last_regenerate|i:1687791953;error|s:343:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>user_name Harus diisi</li>
+					<li>user_username Harus diisi</li>
+					<li>user_pass Harus diisi</li>
+					<li>user_email Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:9:"user_name";s:0:"";s:13:"user_username";s:0:"";s:9:"user_pass";s:0:"";s:12:"pass_confirm";s:0:"";s:10:"user_email";s:0:"";}}_ci_validation_errors|a:4:{s:9:"user_name";s:21:"user_name Harus diisi";s:13:"user_username";s:25:"user_username Harus diisi";s:9:"user_pass";s:21:"user_pass Harus diisi";s:10:"user_email";s:22:"user_email Harus diisi";}_ci_previous_url|s:38:"http://untung.local/index.php/register";
